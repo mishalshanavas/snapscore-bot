@@ -16,7 +16,7 @@ pip install pyautogui
 
 scrcpy --max-fps 15 -w  -b 2M -m 1000 --lock-video-orientation=1
 
-python main.py
+python allinone.py
 
 
 
