@@ -1,7 +1,7 @@
 
 # Snapscore-bot
 
-snapscore-bot is a simple python bot that works on pyautogui it isvery conveiniat to handle
+snapscore-bot is a simple python bot that works on pyautogui it is very conveiniat to handle
 it uses scrcpy to clone the android mobile screen to your pc
 
 
@@ -12,6 +12,8 @@ it uses scrcpy to clone the android mobile screen to your pc
 
 it first runs scrcpy to clone your screen and finds the snspcht buttons and hepls you to send astonomil number of snaps so you can increase your snapscore
 ## Installation
+First [scrcpy](https://github.com/Genymobile/scrcpy) must be insalled
+
 Clone this repo or download the zip
 ```
 pip pip install pyautogui
